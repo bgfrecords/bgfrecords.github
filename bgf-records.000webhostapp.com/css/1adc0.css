@@ -1,0 +1,32 @@
+
+#wb_header { height: 1091px; }
+#wb_header > .wb_cont_bg { background: transparent none no-repeat scroll center bottom; }
+#wb_main { height: 450px; padding-bottom: 200px; }
+#wb_main > .wb_cont_bg { background: transparent none repeat scroll left top; }
+#wb_footer { height: 50px; }
+#wb_footer > .wb_cont_bg { background: transparent none repeat-x scroll left top; }
+body { background: transparent url("../gallery_gen/2079e2d8aeb6ea9873df4cce6fa5f8ee.jpg") repeat-x scroll center top; background-size: cover; }
+.wb_sbg { background: transparent none repeat-x left top; }
+body, .wb_sbg { min-width: 1200px; min-height: 1591px; }
+.wb_cont_inner { width: 1200px; }
+.wb_cont_bg { width: 1200px; margin-left: -600px; }
+.root { height: 1391px; overflow: visible; min-height: 1591px; }
+#wb_element_instance0 { top: -20px; left: 440px; min-width: 310px; width: 310px; min-height: 210px; height: 210px; display: block; z-index: 183; }
+#wb_element_instance0 img { width: 310px; height: 210px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance1 { top: 230px; left: 330px; min-width: 510px; width: 510px; min-height: 220px; height: 220px; display: block; z-index: 184; }
+#wb_element_instance1 img { width: 510px; height: 220px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance2 { top: 480px; left: 330px; min-width: 510px; width: 510px; min-height: 220px; height: 220px; display: block; z-index: 189; }
+#wb_element_instance2 img { width: 510px; height: 220px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance3 { top: 10px; left: 10px; min-width: 200px; width: 200px; min-height: 24px; height: 24px; display: block; z-index: 187; }
+#wb_element_instance4 { top: 20px; left: 0px; display: block; z-index: 9000; }
+#wb_element_instance5 { top: 54px; left: 0px; display: block; z-index: 9999; }
+
+
+#wb_element_instance3 p:last-child { margin-bottom: 0; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}

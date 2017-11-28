@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 28 Nov 2017 21:03:30 at bgf-records.000webhostapp.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" bgf-records.000webhostapp.com -O1 "C:\Users\King\Desktop\swww\sdaasdsdasda" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:05:03	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/fonts/glyphicons-halflings-regular.eot (from bgf-records.000webhostapp.com/css/bootstrap.min.css)
+21:05:04	Warning: 	File not parsed, looks like binary: bgf-records.000webhostapp.com/fonts/glyphicons-halflings-regular.woff2
+21:05:04	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/fonts/glyphicons-halflings-regular.ttf (from bgf-records.000webhostapp.com/css/bootstrap.min.css)
+21:05:08	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/css/fonts/fontawesome-webfont.eot?v=4.7.0 (from bgf-records.000webhostapp.com/css/font-awesome/font-awesome.min.css?v=4.7.0)
+21:05:08	Warning: 	File not parsed, looks like binary: bgf-records.000webhostapp.com/css/fonts/fontawesome-webfont.woff2?v=4.7.0
+21:05:08	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/css/fonts/fontawesome-webfont.svg?v=4.7.0 (from bgf-records.000webhostapp.com/css/font-awesome/font-awesome.min.css?v=4.7.0)
+21:05:23	Error: 	"Not Found" (404) at link bgf-records.000webhostapp.com/img/hlight_bg.png (from bgf-records.000webhostapp.com/css/site.css?v=20171116120930)
+21:05:23	Error: 	"Not Found" (404) at link bgf-records.000webhostapp.com/img/gallery.empty.gif (from bgf-records.000webhostapp.com/css/site.css?v=20171116120930)
+21:05:23	Error: 	"Not Found" (404) at link bgf-records.000webhostapp.com/img/icon-logo.png (from bgf-records.000webhostapp.com/css/site.css?v=20171116120930)
+21:05:23	Error: 	"Not Found" (404) at link bgf-records.000webhostapp.com/img/flags_matrix.png (from bgf-records.000webhostapp.com/css/site.css?v=20171116120930)
+21:05:23	Error: 	"Not Found" (404) at link bgf-records.000webhostapp.com/img/store-arrow.png (from bgf-records.000webhostapp.com/css/site.css?v=20171116120930)
+21:05:23	Warning: 	Moved Permanently for bgf-records.000webhostapp.com/Language/
+21:05:23	Warning: 	File has moved from bgf-records.000webhostapp.com/Language/ to /
+21:05:23	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/gallery_gen/600e4ffb59edd5bdd42b1c0c8c39ec2f_210x220.png (from bgf-records.000webhostapp.com/English/)
+21:05:23	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/gallery_gen/21380ceee0d8a58a16d68599bfd3ab94_300x100.png (from bgf-records.000webhostapp.com/English/)
+21:05:23	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/gallery_gen/33e974665f5f9f31275aba9cbde71157_350x120.png (from bgf-records.000webhostapp.com/English/)
+21:05:23	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/gallery_gen/bc3b897764dce50fed517b858b803a36_500x350.png (from bgf-records.000webhostapp.com/English/)
+21:05:25	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/gallery_gen/d6533a6cdc1b53fefaf8447caf3893e5_200x50.png (from bgf-records.000webhostapp.com/English/)
+21:05:26	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/css/3.css?ts=1511897516 (from bgf-records.000webhostapp.com/Russian/)
+21:05:26	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/gallery_gen/3761ffdf1337d8323ea7c79f70e102ae_150x40.png (from bgf-records.000webhostapp.com/Russian/)
+21:05:27	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/gallery_gen/600e4ffb59edd5bdd42b1c0c8c39ec2f_200x210.png (from bgf-records.000webhostapp.com/Russian/)
+21:05:27	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/gallery_gen/71742a745257ba0e70992c5b920ce181_340x250.png (from bgf-records.000webhostapp.com/Russian/)
+21:05:27	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/gallery_gen/745acb0b76e546642bc7f3937dae10f5_330x240.png (from bgf-records.000webhostapp.com/Russian/)
+21:05:28	Warning: 	Retry after error -4 (No data (connection closed)) at link bgf-records.000webhostapp.com/css/fonts/fontawesome-webfont.eot?v=4.7.0 (from bgf-records.000webhostapp.com/css/font-awesome/font-awesome.min.css?v=4.7.0)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 7 seconds : 89 links scanned, 67 files written (3867952 bytes overall) [3127179 bytes received at 24623 bytes/sec], 1345636 bytes transferred using HTTP compression in 27 files, ratio 41%, 3.0 requests per connection
+(5 errors, 19 warnings, 0 messages)
